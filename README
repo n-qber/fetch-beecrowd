@@ -1,0 +1,6 @@
+# Fetch-beecrowd
+Simple program to fetch the input from beecrowd exercises
+Usage: fetch-beecrowd [id] [output_file]
+
+Example:
+	fetch-beecrowd 1001 input.txt
